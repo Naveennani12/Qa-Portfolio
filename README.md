@@ -1,9 +1,19 @@
 # QA Portfolio – Naveen Kumar
 
-Welcome to my QA/Testing Engineer portfolio!  
-This repository showcases my skills in **manual testing** and **automation testing** with real projects, bug reports, and scripts.
+# QA Portfolio – Naveen Kumar
+
+![Manual Testing](https://img.shields.io/badge/Manual%20Testing-Functional%2C%20Regression%2C%20Smoke-blue)
+![Selenium](https://img.shields.io/badge/Selenium-WebDriver-green?logo=selenium)
+![Java](https://img.shields.io/badge/Java-Programming-orange?logo=java)
+![TestNG](https://img.shields.io/badge/TestNG-Framework-lightgrey)
+![JUnit](https://img.shields.io/badge/JUnit-Testing-red?logo=junit5)
+![Postman](https://img.shields.io/badge/Postman-API%20Testing-orange?logo=postman)
+![JIRA](https://img.shields.io/badge/JIRA-Bug%20Tracking-blue?logo=jira)
+![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-black?logo=github)
+![GitHub Pages](https://img.shields.io/badge/Deployed-GitHub%20Pages-lightgrey?logo=github)
 
 ---
+
 
 ## 👨‍💻 About Me
 - Fresher QA/Testing Engineer actively preparing for Process Associate roles.
